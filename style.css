@@ -1,0 +1,42 @@
+.body {
+    width: 1916px;
+    height: 5997.47px;
+
+    background: brown;
+    border: #ffff;
+}
+
+.header {
+
+    width: 1916px;
+    height: 96px;
+
+    background: rgb(122, 229, 229);
+}
+
+.menu {
+    display: flex;
+    
+}
+
+.logo1 {
+    margin-left: 215px;
+    margin-top: 29px;
+    background: rgb(122, 129, 229);
+}
+
+.menu2 {
+    display: flex;
+    background: rgb(122, 129, 229);
+    margin-left: 352px;
+    margin-top: 19px;
+    gap: 80px;
+
+}
+
+.button1 {
+    background: rgb(122, 129, 229);
+    margin-left: 282px;
+    margin-top: 22px;
+    gap: 0px;
+}
